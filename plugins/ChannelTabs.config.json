@@ -1,0 +1,36 @@
+{
+    "didShowIssueHelperPopup": true,
+    "currentVersionInfo": {
+        "version": "2.5.7",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "tabs": [
+            {
+                "name": "Friends",
+                "url": "/channels/@me",
+                "selected": true,
+                "iconUrl": ""
+            },
+            {
+                "name": "@Jinal",
+                "url": "/channels/@me/689915999431950336",
+                "selected": false,
+                "channelId": "689915999431950336"
+            }
+        ],
+        "favs": [
+            {
+                "name": "#bot-spam",
+                "iconUrl": "https://cdn.discordapp.com/icons/813499050862051388/3eec132162f9f5671ef0219521e51e41.webp?size=256",
+                "url": "/channels/813499050862051388/813499319444701186",
+                "channelId": "813499319444701186"
+            }
+        ],
+        "showTabBar": true,
+        "showFavBar": true,
+        "reopenLastChannel": false,
+        "showTabUnreadBadges": true,
+        "showFavUnreadBadges": true
+    }
+}

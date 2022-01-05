@@ -1,0 +1,39 @@
+{
+    "settings": {
+        "tabs": [
+            {
+                "name": "@QueenofSeaSalt",
+                "url": "/channels/@me/688821336872714367",
+                "selected": true,
+                "currentStatus": "idle",
+                "iconUrl": "https://cdn.discordapp.com/avatars/688151905301692450/537b0a16b6f99f5bbf109088a73d5b19.webp?size=256",
+                "channelId": "688821336872714367"
+            }
+        ],
+        "favs": [],
+        "favGroups": [],
+        "showTabBar": true,
+        "showFavBar": false,
+        "reopenLastChannel": false,
+        "showFavUnreadBadges": true,
+        "showFavMentionBadges": true,
+        "showFavTypingBadge": true,
+        "showEmptyFavBadges": true,
+        "showTabUnreadBadges": true,
+        "showTabMentionBadges": true,
+        "showTabTypingBadge": true,
+        "showEmptyTabBadges": false,
+        "showActiveTabUnreadBadges": false,
+        "showActiveTabMentionBadges": false,
+        "showActiveTabTypingBadge": false,
+        "showEmptyActiveTabBadges": false,
+        "compactStyle": true,
+        "privacyMode": false,
+        "showFavGroupUnreadBadges": true,
+        "showFavGroupMentionBadges": true,
+        "showFavGroupTypingBadge": true,
+        "showEmptyFavGroupBadges": true,
+        "showQuickSettings": true,
+        "alwaysFocusNewTabs": false
+    }
+}

@@ -1,0 +1,407 @@
+{
+	"amounts": {
+		"toastTime": 5,
+		"checkInterval": 10
+	},
+	"dates": {
+		"logDate": {}
+	},
+	"general": {
+		"addOnlineCount": false,
+		"showDiscriminator": false,
+		"muteOnDND": false,
+		"openOnClick": true
+	},
+	"notificationSounds": {
+		"toastonline": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktoponline": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toastidle": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktopidle": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toastdnd": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktopdnd": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toastplaying": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktopplaying": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toastlistening": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktoplistening": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toaststreaming": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktopstreaming": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toastoffline": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktopoffline": {
+			"url": null,
+			"song": null,
+			"mute": false
+		}
+	},
+	"notificationStrings": {
+		"online": "$user changed status to '$status'",
+		"idle": "$user changed status to '$status'",
+		"dnd": "$user changed status to '$status'",
+		"playing": "$user started playing '$game'",
+		"listening": "$user started listening to '$song'",
+		"streaming": "$user started streaming '$game'",
+		"offline": "$user changed status to '$status'",
+		"login": "$user just logged in '$status'",
+		"custom": "$user changed status to '$custom'"
+	},
+	"observed": {
+		"597254698986110978": {
+			"friends": {
+				"157996143609905155": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"296470796723814400": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"344904540946169857": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"376805531173519361": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"428212334163394562": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"451039370602872844": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"454431302620413966": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"474825552348315649": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"497487070290378752": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"518860457310814248": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"526248214370844674": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"594366720014286878": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"619342328972443685": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"681376555871895566": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"685676979198230684": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"688128483397861556": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"688129799868121206": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"688151905301692450": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"689598226097111129": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"737053628938059827": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"748563310370095201": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"755937882166001737": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"820429793954627605": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"826152577620115529": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				},
+				"277220342701752330": {}
+			},
+			"strangers": {
+				"794864783098642442": {
+					"disabled": false,
+					"online": 1,
+					"idle": 1,
+					"dnd": 1,
+					"playing": 1,
+					"listening": 1,
+					"streaming": 1,
+					"offline": 1,
+					"mobile": 1,
+					"custom": 1
+				}
+			}
+		}
+	}
+}

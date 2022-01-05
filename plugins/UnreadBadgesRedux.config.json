@@ -1,0 +1,23 @@
+{
+    "currentVersionInfo": {
+        "version": "1.0.12",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "misc": {
+            "folders": true,
+            "noMutedGuildsInFolderCount": true,
+            "noMutedChannelsInGuildsInFolderCount": true,
+            "expandedFolders": true,
+            "guilds": true,
+            "mutedGuilds": false,
+            "noMutedInGuildCount": true,
+            "channels": true,
+            "mutedChannels": false,
+            "channelsDisplayOnLeft": false,
+            "backgroundColor": "#7289da",
+            "textColor": "#ffffff",
+            "mutedChannelBadgeDarkness": 0.25
+        }
+    }
+}

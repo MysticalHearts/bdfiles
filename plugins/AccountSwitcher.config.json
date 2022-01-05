@@ -1,0 +1,39 @@
+{
+    "didShowIssueHelperPopup": true,
+    "currentVersionInfo": {
+        "version": "1.3.4",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "accounts": [
+            {
+                "name": "system76#2557",
+                "id": "826152577620115529",
+                "avatar": "https://cdn.discordapp.com/avatars/826152577620115529/955711ba68cc5580cce83ff02764ba39.png?size=256",
+                "keybind": [
+                    64,
+                    10
+                ],
+                "token": "zr3q+VfmfPtKoeVV9n7BOQ==:vf8L0UAe+K3Maihf8g0fYNIxiJjRoZ30KTAdBcOIrREgGivpfisKUIOLN7CmG9QCrkm+XWTpi2eoggoFHHB7ETIZaO4EvuvurGFtORD1LMYcITXbSagKvVvuX/2v48pEZavTt5UBqaHJR3D17iAPZBxOiNZQjW5IZrIhGG4RfX4="
+            },
+            {
+                "name": "system64#6731",
+                "id": "597254698986110978",
+                "avatar": "https://cdn.discordapp.com/avatars/597254698986110978/d5a026c06452661ce430a8a23ce92bab.png?size=256",
+                "keybind": [
+                    64,
+                    11
+                ],
+                "token": "NTB4btaeMsf1rgSHMAFeyA==:58/PFD0t2TqrvfLTuG/3Bvyw5zeM7K/QRUxPKctCTqRx6PdwVkplPI7wcOFKErxH7K06Bkvj2Q+WHspBgvUvik/8da0R5QmaqcLVmpvzF+GR/V69HGzw9ZjBZa/eo3nfaPtzcfdPqnx7AvPKWP5KcljXioBRh7UIYi0l6xk8Ex0="
+            }
+        ],
+        "encrypted": true,
+        "encTest": "8f8jW8ikMLBcYGK+k+hjew==:IOohQoYDMEHqCPUPeGTT/A==",
+        "pluginsToRestart": [
+            "AccountDetailsPlus",
+            "AutoStartRichPresence"
+        ],
+        "encryptionVersion": 2,
+        "salt": "P9BS5BdqBMlQoLi2RYGyxAPLEAVXUqWC1wTZllmbCBk="
+    }
+}
